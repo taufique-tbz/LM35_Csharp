@@ -1,0 +1,10 @@
+E:\Visual_Studio_Projects\CA_Project\CA_Project\bin\Debug\CA_Project.exe.config
+E:\Visual_Studio_Projects\CA_Project\CA_Project\bin\Debug\CA_Project.exe
+E:\Visual_Studio_Projects\CA_Project\CA_Project\bin\Debug\CA_Project.pdb
+E:\Visual_Studio_Projects\CA_Project\CA_Project\bin\Debug\MaterialSkin.dll
+E:\Visual_Studio_Projects\CA_Project\CA_Project\obj\Debug\CA_Project.Form1.resources
+E:\Visual_Studio_Projects\CA_Project\CA_Project\obj\Debug\CA_Project.Properties.Resources.resources
+E:\Visual_Studio_Projects\CA_Project\CA_Project\obj\Debug\CA_Project.csproj.GenerateResource.Cache
+E:\Visual_Studio_Projects\CA_Project\CA_Project\obj\Debug\CA_Project.exe
+E:\Visual_Studio_Projects\CA_Project\CA_Project\obj\Debug\CA_Project.pdb
+E:\Visual_Studio_Projects\CA_Project\CA_Project\obj\Debug\CA_Project.csprojResolveAssemblyReference.cache
